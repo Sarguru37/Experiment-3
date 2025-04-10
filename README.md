@@ -16,7 +16,7 @@
 7. Stop the program. 
 
 ## Program
-```
+```python
 num = input("Enter a number: ")  
 flag = 0  
 
